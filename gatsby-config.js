@@ -24,11 +24,10 @@
 
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Default Starter`
+    title: `The Morning Skate Pod`
   },
   plugins: [
     'gatsby-plugin-react-helmet',
-    `gatsby-plugin-sass`,
     {
       resolve: `gatsby-source-filesystem`,
       options: {
